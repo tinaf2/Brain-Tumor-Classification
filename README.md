@@ -1,4 +1,4 @@
-# Brain-Tumor-Classification-with-ML
+# Brain-Tumor-Classification
 This repository contains a Brain Tumor Classification project that leverages deep learning to categorize MRI scans into four classes: Glioma, Meningioma, Pituitary, or No Tumor. The workflow includes:
 
 **Data Processing:** Automated collection and labeling of MRI images from a Kaggle dataset, augmented with brightness shifts and normalization.
